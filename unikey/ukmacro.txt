@@ -1,0 +1,22 @@
+﻿;DO NOT DELETE THIS LINE*** version=1 ***
+c7a:ça
+connai6tre:connaître
+connaitre:connaître
+derniere:dernière
+dernìere:dernière
+fac7on:façon
+facon:façon
+franc7ais:français
+franc7aise:française
+francais:français
+francaise:française
+lec7on:leçon
+lecon:leçon
+plai6t:plaît
+plait:plaît
+premiere:première
+premìere:première
+rec7u:reçu
+recu:reçu
+su6r:sûr
+su6re:sûre
